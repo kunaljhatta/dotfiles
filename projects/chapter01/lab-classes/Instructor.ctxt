@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Instructor
+comment0.text=\n\ Write\ a\ description\ of\ class\ Instructor\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=fullName\ id\ course
+comment1.target=Instructor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Create\ a\ new\ student\ with\ a\ given\ name\ and\ ID\ number.\n
+comment2.params=
+comment2.target=java.lang.String\ getCourse()
+comment2.text=\n\ Get\ the\ course\ the\ instructor\ is\ teaching\n
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\n\ Print\ the\ student's\ name\ and\ ID\ number\ to\ the\ output\ terminal.\n
+numComments=4

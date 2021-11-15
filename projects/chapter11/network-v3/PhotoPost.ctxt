@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PhotoPost
+comment0.text=\n\ This\ class\ stores\ information\ about\ a\ post\ in\ a\ social\ network\ news\ feed.\n\ The\ main\ part\ of\ the\ post\ consists\ of\ a\ photo\ and\ a\ caption.\n\ Other\ data,\ such\ as\ author\ and\ time,\ are\ also\ stored.\n\ \n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ 0.3\n
+comment1.params=author\ filename\ caption
+comment1.target=PhotoPost(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PhotoPost.\n\ \n\ @param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\n\ @param\ filename\ \ The\ filename\ of\ the\ image\ in\ this\ post.\n\ @param\ caption\ \ \ A\ caption\ for\ the\ image.\n
+comment2.params=
+comment2.target=java.lang.String\ getImageFile()
+comment2.text=\n\ Return\ the\ file\ name\ of\ the\ image\ in\ this\ post.\n\ \n\ @return\ The\ post's\ image\ file\ name.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getCaption()
+comment4.text=\n\ Return\ the\ caption\ of\ the\ image\ of\ this\ post.\n\ \n\ @return\ The\ image's\ caption.\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\n\ Display\ the\ details\ of\ this\ post.\n\ \n\ (Currently\:\ Print\ to\ the\ text\ terminal.\ This\ is\ simulating\ display\ \n\ in\ a\ web\ browser\ for\ now.)\n
+numComments=6

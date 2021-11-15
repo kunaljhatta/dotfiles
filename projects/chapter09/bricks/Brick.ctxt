@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Brick
+comment0.text=\n\ Brick\ models\ a\ simple\ brick.\n\ \n\ @author\:\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ 2016.02.29\n
+comment1.params=height\ width\ depth
+comment1.target=Brick(int,\ int,\ int)
+comment1.text=\n\ Create\ a\ Brick\ given\ edge\ lengths\ in\ centimeters.\n\ @param\ height\ The\ brick's\ height.\n\ @param\ width\ The\ brick's\ width.\n\ @param\ depth\ The\ brick's\ depth.\n
+comment2.params=
+comment2.target=double\ getSurfaceArea()
+comment2.text=\n\ @return\ The\ surface\ area\ of\ this\ brick\ in\ square\ centimeters.\n
+comment3.params=
+comment3.target=double\ getWeight()
+comment3.text=\n\ @return\ The\ weight\ of\ this\ brick\ in\ kg.\n
+comment4.params=
+comment4.target=int\ getVolume()
+comment4.text=\n\ @return\ The\ volume\ of\ this\ brick\ in\ cubic\ centimeters.\n
+comment5.params=
+comment5.target=double\ getHeight()
+comment5.text=\n\ @return\ The\ height\ of\ this\ brick\ in\ centimeters.\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Club
+comment0.text=\n\ Store\ details\ of\ club\ memberships.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Club()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Club\n
+comment2.params=member
+comment2.target=void\ join(Membership)
+comment2.text=\n\ Add\ a\ new\ member\ to\ the\ club's\ list\ of\ members.\n\ @param\ member\ The\ member\ object\ to\ be\ added.\n
+comment3.params=month
+comment3.target=int\ joinedInMonth(int)
+comment3.text=\n\ Determine\ the\ number\ of\ members\ who\ joined\ in\ the\ given\n\ month.\n\ @param\ month\ The\ month\ we\ are\ interested\ in.\n\ @return\ The\ number\ of\ members\ who\ joined\ in\ that\ month.\n
+comment4.params=
+comment4.target=int\ numberOfMembers()
+comment4.text=\n\ @return\ The\ number\ of\ members\ (Membership\ objects)\ in\n\ \ \ \ \ \ \ \ \ the\ club.\n
+numComments=5
